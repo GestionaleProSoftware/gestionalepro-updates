@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "downloadUrl": "",
-  "notes": "Sistema aggiornamenti GestionalePro attivo. Nessun aggiornamento disponibile."
+  "version": "1.4.1",
+  "downloadUrl": "https://github.com/GestionaleProSoftware/gestionalepro-updates/raw/refs/heads/main/GestionalePro_1.4.1.zip",
+  "notes": "Aggiornamento GestionalePro: miglioramenti, Assistente AI Groq, funzione vocale e sistema aggiornamenti."
 }
