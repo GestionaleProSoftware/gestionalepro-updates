@@ -1,5 +1,6 @@
 {
   "version": "1.4.1",
-  "downloadUrl": "https://github.com/GestionaleProSoftware/gestionalepro-updates/raw/refs/heads/main/GestionalePro_1.4.1.zip",
-  "notes": "Aggiornamento GestionalePro: miglioramenti, Assistente AI Groq, funzione vocale e sistema aggiornamenti."
+  "downloadUrl": "https://github.com/GestionaleProSoftware/gestionalepro-updates/releases/download/v1.4.1/GestionalePro_1.4.1.zip",
+  "sha256": "DA867C0DFD4AD5C2E249C14EC6D508FF5330C38D50469B178E4A6030F2E8245C",
+  "notes": "Nuovo sistema di aggiornamento automatico, verifica SHA-256, backup e miglioramenti generali."
 }
