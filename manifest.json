@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "downloadUrl": "https://github.com/GestionaleProSoftware/gestionalepro-updates/releases/download/v1.4.1/GestionalePro_1.4.1.zip",
-  "sha256": "DA867C0DFD4AD5C2E249C14EC6D508FF5330C38D50469B178E4A6030F2E8245C",
-  "notes": "Nuovo sistema di aggiornamento automatico, verifica SHA-256, backup e miglioramenti generali."
+    "version":  "1.4.1",
+    "downloadUrl":  "https://github.com/GestionaleProSoftware/gestionalepro-updates/releases/download/v1.4.1/GestionalePro_1.4.1.zip",
+    "sha256":  "E288648484E356CA67B0E780B63CB3D22D2528FD86D17C49D35B7F1A9135B39D",
+    "notes":  "Nuovo sistema di aggiornamento automatico, verifica SHA-256, backup e miglioramenti generali."
 }
